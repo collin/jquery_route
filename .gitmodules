@@ -1,0 +1,6 @@
+[submodule "jquery_simpletest"]
+	path = jquery_simpletest
+	url = git://github.com/collin/jquery_simpletest.git
+[submodule "jquery_template"]
+	path = jquery_template
+	url = git://github.com/collin/jquery_template.git
